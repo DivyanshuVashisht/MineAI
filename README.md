@@ -7,6 +7,7 @@ Open terminal/command prompt and type the following:
 # Running the Game
 In the terminal/command prompt
 > python minesweeper.py
+
 > python runner.py
 
 # How to play
